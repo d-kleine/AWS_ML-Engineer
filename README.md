@@ -2,7 +2,7 @@
 ## Overview
 This repository contains projects from the [AWS ML Engineer Nonodegree Program](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
 
-This nanodegree programs consists of these chapters covered each by a separate projects:
+This Nanodegree program consists of these chapters covered each by a separate projects:
 * Introduction to Machine Learning
 * Developing Your First ML Workflow
 * Deep Learning Topics within Computer Vision and NLP
@@ -13,4 +13,4 @@ This nanodegree programs consists of these chapters covered each by a separate p
 ### Project 1 (Introduction to Machine Learning)
 * In this project we predict Bike Sharing Demand using AutoGluon for model selection and hyperparameters optimization.
 
---- project interrupted due to too many technical issues ---
+--- Nanodegree program interrupted due to too many technical issues ---
