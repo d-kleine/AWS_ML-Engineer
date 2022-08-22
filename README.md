@@ -1,8 +1,6 @@
 # AWS Machine Learning Engineer Nanodegree Program
 ## Overview
-This repository contains projects from the [AWS ML Engineer Nonodegree Program](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
-
-This Nanodegree program consists of these chapters covered each by a separate projects:
+This repository contains projects from the [AWS ML Engineer Nanodegree Program](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189). It consists of these chapters covered each by a separate projects:
 * Introduction to Machine Learning
 * Developing Your First ML Workflow
 * Deep Learning Topics within Computer Vision and NLP
